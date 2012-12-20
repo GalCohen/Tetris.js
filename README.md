@@ -5,12 +5,12 @@ An HTML5 tetris game I wrote to learn how to use  <canvas>
 
 Controls
 ------------
-spacebar - start or retstart the game.
-p key - pause the game.
-w or up arrow - rotate the tetris piece.
-a or left arrow - move piece left.
-d or right arrow - move piece right.
-s or down arrow - move piece down.
+* spacebar - start or retstart the game.
+* p key - pause the game.
+* w or up arrow - rotate the tetris piece.
+* a or left arrow - move piece left.
+* d or right arrow - move piece right.
+* s or down arrow - move piece down.
 
 Note:
 ------
