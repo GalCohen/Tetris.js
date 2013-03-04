@@ -3,6 +3,8 @@ Tetris.js
 
 An HTML5 tetris game I wrote to learn how to use  <canvas>
 
+[Play it here!](https://projects-galcohen.rhcloud.com/tetris/)
+
 Controls
 ------------
 * spacebar - start or retstart the game.
